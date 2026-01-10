@@ -48,6 +48,10 @@
 -   Higher-order functions
 -   Closures
 -   Decorators
+-   Generator 
+-   Iterator
+-   Docstring
+-   map, filter, reduce
 -   Partial functions (functools)
 
 ## 5. Object-Oriented Programming
